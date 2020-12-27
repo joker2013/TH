@@ -26,3 +26,4 @@
 - [Data-Driven Security: Analysis, Visualization and Dashboards](https://www.amazon.com/Data-Driven-Security-Analysis-Visualization-Dashboards/dp/1118793722)
 - [Network Security Through Data Analysis: Building Situational Awareness](https://www.amazon.com/Network-Security-Through-Data-Analysis/dp/1449357903)
 - [Windows Commands Abused by Attackers](https://blogs.jpcert.or.jp/en/2016/01/windows-commands-abused-by-attackers.html)
+### [OSQUERY for TH](https://www.youtube.com/watch?v=UoTIbJd-uRw&utm_content=149593644&utm_medium=social&utm_source=twitter&hss_channel=tw-771758396810952704)

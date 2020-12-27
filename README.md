@@ -1,4 +1,13 @@
 # TH
+## Умения
+- Analytical Mindset
+- Log Analysis
+- Network Forensics
+- Network Architecture
+- Attacker Lifecycle
+- Tools
+- OS Architecture
+- Attack Methods
 ## Recurces
 ### [Институт SANS](https://www.sans.org/reading-room/whitepapers/threathunting/)
 ### [The ThreatHunting Project](https://www.threathunting.net/reading-list)
